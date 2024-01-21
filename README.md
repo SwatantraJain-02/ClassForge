@@ -1,5 +1,5 @@
 # Live link for the project
-https://classroom-frontend-pachauriyash.vercel.app/
+https://classroom-frontend-eosin.vercel.app
 
 # Classroom Project
 
@@ -83,6 +83,6 @@ A live demo of the Classroom Project can be accessed [here]([https://classroom-f
 
 ## Support
 
-If you encounter any problems or need assistance with the Classroom Project, please contact me at yashpachauri.yp@gmail.com.
+If you encounter any problems or need assistance with the Classroom Project, please contact me at swatantraj2002@gmail.com
 
 Thank you for using the Classroom Project! Happy learning!
